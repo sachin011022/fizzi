@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: woff2;
+  src: url("../public//fonts/Alpino-Variable.woff2");
+}
+body {
+  font-family: woff2;
+  /* background-color: ; */
+}
